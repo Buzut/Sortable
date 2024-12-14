@@ -28,7 +28,7 @@ Demo: http://sortablejs.github.io/Sortable/
      * [Mixin](https://github.com/SortableJS/react-mixin-sortablejs)
    * [Knockout](https://github.com/SortableJS/knockout-sortablejs)
    * [Polymer](https://github.com/SortableJS/polymer-sortablejs)
-   * [Vue](https://github.com/SortableJS/Vue.Draggable)
+   * [Vue](https://vueuse.org/integrations/useSortable/)
    * [Ember](https://github.com/SortableJS/ember-sortablejs)
  * Supports any CSS library, e.g. [Bootstrap](#bs)
  * Simple API
